@@ -1,0 +1,17 @@
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.Form1.resources
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.Resources.resources
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.vbproj.GenerateResource.cache
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.AssemblyInfoInputs.cache
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.AssemblyInfo.vb
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.vbproj.CoreCompileInputs.cache
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\net8.0-windows\WinFormsApp5.exe
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\net8.0-windows\WinFormsApp5.deps.json
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\net8.0-windows\WinFormsApp5.runtimeconfig.json
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\net8.0-windows\WinFormsApp5.dll
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\bin\Debug\net8.0-windows\WinFormsApp5.pdb
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.dll
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\refint\WinFormsApp5.dll
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.pdb
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\WinFormsApp5.genruntimeconfig.cache
+C:\Users\ttovh\source\repos\WinFormsApp5\WinFormsApp5\obj\Debug\net8.0-windows\ref\WinFormsApp5.dll
